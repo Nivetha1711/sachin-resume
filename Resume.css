@@ -1,0 +1,122 @@
+.sideborder{
+    border:3px solid rgb(152, 54, 54);
+    width:350px;
+    height:1283px;
+    background-color:lightblue;
+    float:left;
+    margin-left: 150px;
+    border-top:hidden;
+    border-left:hidden;
+    border-bottom: hidden;
+}
+.rightbrd{
+    border:1px solid black;
+    width:700px;
+    height:1283px;
+    float:left;
+    margin-left:0px;
+    background-color: lightblue;
+    border-right:hidden;
+    border-bottom: hidden;
+    border-top:hidden;
+}
+.img{
+    border:1px solid none;
+    width:150px;
+    height:150px;
+    border-radius: 75px;
+    margin-left:75px;
+    margin-top: 20px;
+}
+.name{
+    margin-left: 64px;
+}
+.i1{
+    margin-left: 20px;
+    line-height: 1px;
+}
+.i2{
+    margin-left:20px;
+    font-size: 7px;
+    line-height:1px;
+}
+.i3{
+    margin-left: 20px;
+    line-height: 1px;
+}
+.i4{
+    margin-left: 20px;
+    line-height: 1px;
+}
+.edu{
+    margin-left: 20px;
+    font-size: 18px;
+}
+.edu1{
+    width:320px;
+    font-size: 18px;
+    
+}
+
+.acad{
+    margin-left:39px;
+    font-size: 18px;
+}
+.inbrd{
+    border:1px solid none;
+    width:700px;
+    height:1117px;
+    margin-left: 5px;
+    margin-top:15px;
+}
+.summary{
+    border:1px solid none;
+    width:670px;
+    height:150px;
+    margin-top: 25px;
+    margin-left: 3px;
+    font-size: 18px;
+}
+.skills{
+    border:1px solid none;
+    width:670px;
+    height:220px;
+    font-size: 18px;
+    margin-left: 3px;
+}
+/*.lftbrd{
+    border:1px solid black;
+    width:332px;
+    height:155px;
+    float:left;
+}*/
+.experience{
+    border:1px solid none;
+    width:670px;
+    height:268px;
+    margin-top: 20px;
+    margin-left: 3px;
+    font-size: 18px;
+}
+.projects{
+    border:1px solid none;
+    width:670px;
+    height:230px;
+    margin-left: 3px;
+    font-size: 18px;
+}
+.certificates{
+    border:1px solid none;
+    width:670px;
+    height:132px;
+    margin-left: 3px;
+    margin-top:90px;
+    font-size: 18px;
+}
+.inst{
+    margin-left:20px;
+    font-size: 18px;
+}
+.fontsummary{
+    font-size: 18px;
+}
